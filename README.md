@@ -1,2 +1,1 @@
-"# KOZWORLD" 
-"# KOZWORLD" 
+Devlopment for the kozworld website: kozworld.net
